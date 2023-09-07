@@ -1,9 +1,9 @@
 # DSMethodology_WalmartAnalysis
 A group project to anlysis walmart stores data for data methodology course and answer predefined tasks such as:
-> Which store has maximum sales?
-> Which store has maximum standard deviation?
-> Which store/s has good quarterly growth rate?
-> Find out holidays which have higher sales than the mean sales in non-holiday season for all stores.
+> Which store has maximum sales? <br>
+> Which store has maximum standard deviation?<br>
+> Which store/s has good quarterly growth rate?<br>
+> Find out holidays which have higher sales than the mean sales in non-holiday season for all stores.<br>
 > Provide a monthly and semester view of sales in units and give insights.
 
 ##### Exploratory analysis
