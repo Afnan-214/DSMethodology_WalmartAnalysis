@@ -6,8 +6,8 @@ A group project to anlysis walmart stores data for data methodology course and a
 > Find out holidays which have higher sales than the mean sales in non-holiday season for all stores.<br>
 > Provide a monthly and semester view of sales in units and give insights.
 
-##### Exploratory analysis
+### Exploratory analysis
 Using visualization and statistics functions to explore the variable distribution and the stores' sales nature.
-##### Insights 
+### Insights 
 Providing an observation for each output to draw a conclusion about walmart stores' sales.
 
